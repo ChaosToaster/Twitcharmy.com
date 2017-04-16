@@ -1,0 +1,30 @@
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::Hey Buddies,                                                             ::
+::in this little Tutorial, i will answer the most Question of all Streamer ::
+::"How i can make my own animated Overlay in OBS, WITHOUT a Video?"        ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+So now i have the solution. I made the last Days a Full HTML Animated-Banner.
+
+This little Steps are very Important:
+1. Make sure u have the Latest Update on your OBS Studio
+2. Make sure u have the OBS Plugin "Browser Source"
+3. Download the ZIP-Archiv from Github
+4. Put the Folder where ever u want
+5. Now u can open the "main.html" and change what u want (U need an Editor -> My Tipp: Notepad++)
+6. After that, go in your OBS and add BrowserSource to your Scene
+7. Delete all on the CSS Window
+8. Click on the Point "Local File"
+9. Than Search your "main.html" File and Click "OK"
+10. Than click on the bottom the Button "Refresh cache" and your Done
+
+Thats it! :)
+Now u have your own Animated HTML Banner in OBS.
+
+____________________________________________________
+Copyright by ChaosToasterHH
+That Project was made for Github and all People to use it and have
+Fun with some nice StreamingContent and Programing.
+
+Visit us on: http://www.twitcharmy.com
+Github: https://github.com/ChaosToaster/Twitcharmy.com
+U need Help or have a Question? -> Mail me on admin@twitcharmy.com
